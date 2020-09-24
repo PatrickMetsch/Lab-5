@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{2D260405-7655-45C8-A89B-9C95109A9529}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalculator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalculator/wwwroot/css/site.css">
+    <Files>
+      <File FileName="TipCalculator/Models/TipCalculator.cs" Line="14" Column="43" />
+      <File FileName="TipCalculator/Controllers/HomeController.cs" Line="15" Column="10" />
+      <File FileName="TipCalculator/Views/Home/Index.cshtml" Line="16" Column="32" />
+      <File FileName="TipCalculator/wwwroot/css/site.css" Line="18" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="5-1_TipCalculator" expanded="True">
+            <Node name="TipCalculator" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True">
+                  <Node name="site.css" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
